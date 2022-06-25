@@ -1,6 +1,7 @@
 backup/
 Data/
 Models_lgbm_DART/
+Models/
 Kaggle_models/
 Output/
 __pycache__/
