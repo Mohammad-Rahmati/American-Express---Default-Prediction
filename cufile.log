@@ -43,3 +43,19 @@
  19-06-2022 17:03:12:692 [pid=74226 tid=74226] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
  19-06-2022 20:50:53:100 [pid=4137 tid=4137] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
  19-06-2022 20:55:32:919 [pid=4863 tid=4863] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 07:59:12:321 [pid=7228 tid=7228] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 08:38:20:79 [pid=150114 tid=150114] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 08:56:22:595 [pid=153738 tid=153738] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 08:58:06:353 [pid=154106 tid=154106] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 08:59:30:840 [pid=154390 tid=154390] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 09:00:36:593 [pid=154653 tid=154653] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 09:02:12:394 [pid=154928 tid=154928] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 09:09:53:23 [pid=156584 tid=156584] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 09:10:20:595 [pid=156753 tid=156753] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 09:22:52:263 [pid=159412 tid=159412] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 09:24:10:456 [pid=159708 tid=159708] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 09:24:49:21 [pid=159875 tid=159875] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 02-07-2022 09:35:09:913 [pid=161928 tid=161928] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 03-07-2022 10:55:51:568 [pid=113118 tid=113118] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 03-07-2022 12:11:40:499 [pid=121054 tid=121054] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
+ 04-07-2022 07:26:03:578 [pid=243251 tid=243251] ERROR  cufio-drv:701 nvidia-fs.ko driver not loaded
