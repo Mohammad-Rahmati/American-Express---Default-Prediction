@@ -13,3 +13,4 @@ models_DART_slope/
 models_DART_SlopesCorrPCAslope/
 models_DART_top5corr/
 models_DART_top56corr/
+models_DART_corr_pcaslope_lag/
