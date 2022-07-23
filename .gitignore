@@ -9,5 +9,7 @@ Ensemble_DART/
 .ipynb_checkpoints/
 .vscode/settings.json
 models_*
+public_output/
+blend/
 
 
